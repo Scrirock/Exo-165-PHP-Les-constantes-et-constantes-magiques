@@ -10,6 +10,16 @@
  */
 // TODO Votre code ici.
 
+const nbr = 12;
+const nbr2 = 2;
+
+echo nbr*nbr2;
+
+echo "<br><br>";
+
+const php = "C'est cool PHP";
+
+echo (nbr+nbr2)*strlen(php);
 
 /**
  * 6. Utilisez la bonne constante magique et éventuellement la bonne fonction pour afficher un maximum d'informations sur la page actuelle4
